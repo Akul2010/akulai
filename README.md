@@ -1,12 +1,12 @@
 # AkulAI Core
 
-This isn't the actual codebase; just a way for you (the reader) to check out the actual code.
+See the respective branches for the current versions.
 
-For v1:
+For v1 (legacy):
 
 https://github.com/Akul-AI/akulai_core/tree/master-v1
 
-For v2:
+For v2 (current):
 
 https://github.com/Akul-AI/akulai_core/tree/master-v2
 
